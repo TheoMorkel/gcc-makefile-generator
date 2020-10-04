@@ -5,6 +5,8 @@
 
 ## 1. Download the file and save it anywhere
 
-## 2. Edit 
+## 2. Edit the main.py file
+- set the location of your folder 
+- set the name for you main method
 
 
