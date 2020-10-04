@@ -53,7 +53,3 @@ def makeMakefile(main):
     cleanString = cleanString.format(main)
 
     makefile.write(cleanString + "\n\n")
-
-setFolderDir("D:\\Skoolwerk\\2020\\Semester 2\\COS 214\\Practicals\\Practical 4\\Task1")
-
-makeMakefile("test")
